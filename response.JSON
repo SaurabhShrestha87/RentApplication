@@ -1,0 +1,24 @@
+[
+  {
+    "total": "$26.40",
+    "order_date": "12 jan 2021, 08:28pm",
+    "order_no": "#6758",
+    "ordered_by": "https://rosius.s3.us-east-2.amazonaws.com/cropped_rosius.png",
+    "items": [
+      {
+        "name": "Vegetable Mixups",
+        "pic": "https://rosius.s3.us-east-2.amazonaws.com/meal1+(1).jpg",
+        "price": "$10.20",
+        "desc": "Vegetable Fritters with Egg",
+        "qty": 5
+      },
+      {
+        "name": "Chicken Mixed Salad",
+        "pic": "https://rosius.s3.us-east-2.amazonaws.com/meal4+(1).jpeg",
+        "price": "$16.20",
+        "desc": "Roasted Chicken, mixed with salad",
+        "qty": 2
+      }
+    ]
+  }
+]
